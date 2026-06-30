@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá 👋
 
-<!--
-**jonathanpcruzdev/jonathanpcruzdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Jonathan Paulo da Cruz.
 
-Here are some ideas to get you started:
+Sou desenvolvedor em formação, focado em desenvolvimento Web e Backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- Java
+- Spring Boot
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## Atualmente
+
+📚 Estudando Java e Spring Boot.
+
+🎯 Objetivo: conquistar minha primeira oportunidade como Desenvolvedor.
+
+## Contato
+
+Email:
+jonathan.pcruz@outlook.com
